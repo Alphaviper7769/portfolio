@@ -4,7 +4,7 @@ A sleek, modern, and responsive portfolio bootstrapped with [create-t3-app](http
 
 [Website Preview](https://github.com/Alphaviper7769/portfolio.git)
 
-[🔗 Link to portfolio](https://www.)
+[🔗 Link to portfolio](https://aayush-raturi-portfolio.vercel.app/)
 
 All you need to know about me, my projects and skills can be found here. Personalize the portfolio by modifying `src/pages/index.tsx` and `src/styles/globals.css` to emulate your own portfolio. Made some improvements and want to share? Open a pull request.
 For any issues, feel free to report them here.
